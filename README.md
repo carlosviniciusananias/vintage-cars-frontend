@@ -19,7 +19,7 @@ yarn install
 yarn start
 ```
 
-## xCode
+## Simulator
 
 ```sh
 press ```a``` for open ```android```
