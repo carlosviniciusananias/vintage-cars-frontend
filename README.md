@@ -21,9 +21,15 @@ yarn start
 
 ## xCode
 
+```sh
 press ```a``` for open ```android```
+```
+```sh
 press ```i``` for open ```iOS simulator```
+```
+```sh
 press ```w``` for open ```web```
+```
 
 
 ## Show your support
