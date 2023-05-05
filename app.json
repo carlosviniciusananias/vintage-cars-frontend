@@ -3,6 +3,15 @@
     "name": "vintage-cars-frontend",
     "slug": "vintage-cars-frontend",
     "version": "1.0.0",
+    "android": {
+      "googleServicesFile": "./google-services.json"
+    },
+    "ios": {
+      "googleServicesFile": "./GoogleService-Info.plist"
+    },
+    "plugins": [
+      "@react-native-google-signin/google-signin"
+    ],
     "assetBundlePatterns": [
       "**/*"
     ]
